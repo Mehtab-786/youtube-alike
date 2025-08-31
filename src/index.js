@@ -21,6 +21,3 @@ databaseConfig()
 
 
 databaseConfig()
-
-
-//database , then /catch method

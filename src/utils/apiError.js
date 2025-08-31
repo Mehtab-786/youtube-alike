@@ -21,5 +21,3 @@ class ApiError extends Error {
 }
 
 export {ApiError}
-
-//search nodejs error class

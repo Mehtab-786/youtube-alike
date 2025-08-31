@@ -15,6 +15,3 @@ app.use(express.static('public'))
 app.use(cookieParser())
 
 export default app
-
-
-//see docs of urlencoded, json, static,cookieparser,cors
