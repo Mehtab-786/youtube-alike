@@ -85,8 +85,3 @@ userSchema.methods.generateRefreshToken = async function () {
  }
 
 export const User = mongoose.model("User", userSchema)
-
-
-//jwt is a bearer token , see this s
-//refresh token
-//access token

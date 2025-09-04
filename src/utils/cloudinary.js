@@ -25,5 +25,3 @@ const uploadCloudinary = async (localFilePath) => {
 };
 
 export default uploadCloudinary
-
-//about filesystem in nodejs
